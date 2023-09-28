@@ -1,0 +1,94 @@
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    float: right;
+    margin: 5px;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pic {
+    border: solid 5px green;
+}
+footer {
+    text-align: center;
+}
+.edu {
+border: solid 3px red;
+display: inline-block;
+width: 270px;
+text-align: center;
+margin: 5px;
+position: relative;
+
+
+}
+.add {
+    border: solid 3px red;
+    display: inline-block;
+   text-align: center;
+    width: 270px;
+    margin: 5px;
+    padding: 0%;
+    position: relative;
+    
+    
+   
+}
+.contact {
+    border: solid 3px red;
+    display: inline-block;
+    width: 270px;
+    text-align: center;
+    margin: 5px;
+    position: absolute;
+
+}
+h4 {
+    text-decoration: solid underline;
+    color: #EE9322;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* footer {
+    border: solid 2px black;
+} */
+.socialmedia {
+    border: solid 2px black;
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+}
+.img_1 {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+}
+.img_2 {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+     
+}
+.img_3 {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+}
+.img_4 {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+
+}
+.img_5 {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+}
+.img_6 {
+    position: relative;
+    display: inline-block;
+}
