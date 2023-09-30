@@ -1,0 +1,17 @@
+/* secondary */
+* {
+    background-color: #d4e2d4;
+}
+.heading {
+    color: #d83f31;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+.error {
+    text-align: center;
+    font-size: 100px;
+}
