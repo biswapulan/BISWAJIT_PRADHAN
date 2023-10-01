@@ -118,7 +118,7 @@ h4 {
 }
 @media (min-width: 280px) and (max-width: 600px) {
     * {
-        background-color: whitesmoke;
+        background-color: aqua;
     }
     h1 {
         color: #3d158c;
