@@ -116,7 +116,7 @@ h4 {
     position: relative;
     display: inline-block;
 }
-@media (min-width: 280px) and (max-width: 480px) {
+@media (min-width: 280px) and (max-width: 600px) {
     * {
         background-color: whitesmoke;
     }
