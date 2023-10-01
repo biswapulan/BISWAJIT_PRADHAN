@@ -1,24 +1,24 @@
 
-h1 {
+/* h1 {
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-img {
-    /* float: right; */
+} */
+/* img {
+    float: right;
     margin: 5px;
-}
-p {
+} */
+/* p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .pic {
     border: solid 5px green;
-}
-.heading {
+} */
+/* .heading {
     color: #d83f31;
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-}
+} */
 .error {
     text-align: center;
     font-size: 100px;
@@ -26,7 +26,7 @@ p {
 footer {
     text-align: center;
 }
-.edu {
+/* .edu {
 border: solid 3px red;
 display: inline-block;
 width: 270px;
@@ -35,8 +35,8 @@ margin: 5px;
 position: relative;
 
 
-}
-.add {
+} */
+/* .add {
     border: solid 3px red;
     display: inline-block;
    text-align: center;
@@ -47,8 +47,8 @@ position: relative;
     
     
    
-}
-.contact {
+} */
+/* .contact {
     border: solid 3px red;
     display: inline-block;
     width: 270px;
@@ -56,7 +56,7 @@ position: relative;
     margin: 5px;
     position: absolute;
 
-}
+} */
 h4 {
     text-decoration: solid underline;
     color: #EE9322;
