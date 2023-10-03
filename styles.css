@@ -1,17 +1,48 @@
 .navbar-brand {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+}
+p {
+    text-align: left;
+}
+h1 {
+    text-align: center;
+    font-weight: bolder;
     color: indigo;
 }
-.container-fluid {
-    background-color: rgb(58, 190, 183);
-}
-.card {
- margin-left: 10%;
- margin-right: 10%;
-    
-    
-}
 span {
-    font-size: 30px;
+    color: indigo;
+    font-weight: bold;
     
+}
+u {
+    color: indigo;
+}
+footer {
+    text-align: center;
+    color: indigo;
+}
+.insta {
+    display: block;
+    text-align: center;
+}
+.fb {
+    display: block;
+    text-align: center;
+}
+.raddit {
+    display: block;
+    text-align: center;
+}
+.discord {
+    display: block;
+    text-align: center;
+}
+.wp {
+    display: block;
+    text-align: center;
+}
+.snap {
+    display: block;
+    text-align: center;
 }
